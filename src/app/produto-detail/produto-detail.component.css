@@ -1,0 +1,38 @@
+.card-info {
+    width: 80%;
+    height: 50%;
+    background-color: #419FB7;
+    display: inline-block;
+    padding: 1em;
+    margin-left: .9em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-weight: 600;
+    border-radius: 0.5em;
+    box-shadow: 1px 1px 6px #0000001c;
+}
+
+.card-info p {
+    margin-bottom: 1em;
+    border: none;
+}
+
+.card-info h2 {
+    text-align: center;
+}
+
+.card-info input {
+    margin: 0.6em 0;
+    padding: 0.5em;
+    border: none;
+    border-radius: 0.3em;
+    box-shadow: 1px 1px 6px #0000001c;
+}
+
+.card-info input:hover {
+    background-color: #E6F4FF;
+}
+
+.card-info input:focus-visible {
+    outline: 0.2em solid #192E59;
+}
